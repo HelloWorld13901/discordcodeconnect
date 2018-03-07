@@ -1,0 +1,8 @@
+// Hey! This is the first code document. I've taken git before, but don't really know much C++ :(
+// Here goes!
+#include <iostream>
+
+int main()
+{
+  std::cout << "Hello World!";
+}
